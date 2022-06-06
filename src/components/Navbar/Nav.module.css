@@ -1,0 +1,8 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav1{
+    display: flex;
+    gap: 30px;
+}
